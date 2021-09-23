@@ -1,0 +1,17 @@
+{
+  "name": "discard-bat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+    
+  },
+  "author": "5h1Vm",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "nodemon": "^2.0.12"
+  }
+}
